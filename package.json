@@ -1,0 +1,20 @@
+{
+  "name": "amperecli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.go",
+  "scripts": {
+    "start": "air",
+    "test": "go test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ampere-Engine/AmpereCLI.git"
+  },
+  "author": "Mateusz Słotwiński",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ampere-Engine/AmpereCLI/issues"
+  },
+  "homepage": "https://github.com/Ampere-Engine/AmpereCLI#readme"
+}
